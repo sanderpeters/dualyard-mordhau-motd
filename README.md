@@ -2,7 +2,7 @@
 
 <a id="Join our Discord - Apply for VIP on the discord">https://discord.gg/4zxVmuzyzg</>
 
-![Logo](https://github.com/sanderpeters/dualyard-mordhau-motd/blob/main/assets/logo.png?raw=true)
+![Logo](https://raw.githubusercontent.com/sanderpeters/dualyard-mordhau-motd/main/assets/logo.png)
 
 ## Rules
 1. Be nice to members
