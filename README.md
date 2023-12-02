@@ -1,7 +1,4 @@
-# Welcome to Sandjerti's Duelyard
-
 <a id="Join our Discord - Apply for VIP on the discord">https://discord.gg/4zxVmuzyzg</>
-
 ![Logo](https://raw.githubusercontent.com/sanderpeters/dualyard-mordhau-motd/main/assets/logo.png)
 
 ## Rules
